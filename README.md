@@ -1,2 +1,2 @@
 # nlpad
-Nhenhecas Linkdin Post AI Detection
+Nhenhecas LinkedIn Post AI Detection
